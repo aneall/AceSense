@@ -1,4 +1,4 @@
-# 🂡 AceSense: AR Poker Coach for Mentra Live Glasses
+# 🂡 AceSense: Wearable Agent for Augmented Card Gameplay with Mentra Live Glasses
 
 📍 **Mentra Live Hackathon @ Y Combinator in San Francisco ** — July 12–13, 2025  
 🥇 **Best Project Use of Roboflow**  
