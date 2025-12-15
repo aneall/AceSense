@@ -1,15 +1,10 @@
 # 🂡 AceSense: AR Poker Coach for Mentra Live Glasses
 
-📍 **Mentra Live Hackathon @ YC SF** — July 12–13, 2025  
-🥇 **Best Use of Roboflow**  
-🥇 **Best Use of ElevenLabs**
+📍 **Mentra Live Hackathon @ Y Combinator in San Francisco ** — July 12–13, 2025  
+🥇 **Best Project Use of Roboflow**  
+🥇 **Best Project Use of ElevenLabs**
 
-AceSense is a real-time AR poker coach for Mentra Live smart glasses, built with the MentraOS SDK. It detects your cards, calculates win probability using GPT‑3, and speaks strategic tips aloud via ElevenLabs—keeping your hands free and your eyes on the game.
-
-<div align="center">
-  <img src="./Photo.png" alt="AceSense in action" width="400"/>
-  <p style="margin-top: 0.5em;">Real-time card analysis using Mentra Live glasses.</p>
-</div>
+AceSense is an augmented reality (AR) card game agent built for Mentra Live's smartglasses via MentraOS. AceSense serves as a wearable coach for augmented interaction during gameplay. It detects your cards, calculates win probability using GPT‑3, and speaks strategic tips aloud via ElevenLabs—keeping your hands free and your eyes on the game.
 
 ## ⚙️ Tools & Technologies
 
